@@ -1,0 +1,9 @@
+.container_Text{
+    font-size:   20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.container_btn{
+    display: inline;
+}
